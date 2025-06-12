@@ -50,7 +50,7 @@ This Python program ranks professional golfers in each tier based on their fit f
 ## Usage
 
 ```bash
-python golf_lineup_optimizer.py
+usopenpredictor.py
 ```
 
 This will load the hole data, simulate player stats, compute scores, and print tier rankings.
